@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "885507234556",
+    "firebase_url": "https://taste-of-sham-cccd0-default-rtdb.firebaseio.com",
+    "project_id": "taste-of-sham-cccd0",
+    "storage_bucket": "taste-of-sham-cccd0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885507234556:android:073569ecf727797b189579",
+        "android_client_info": {
+          "package_name": "com.youssef.tasteofsham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRYtXv6A6w2OsSagIyzT8xExdzcduBZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
